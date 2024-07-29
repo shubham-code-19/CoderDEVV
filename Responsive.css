@@ -1,0 +1,649 @@
+.heroHeading {
+  font-size: 1.9rem;
+  margin-top: 2rem;
+}
+
+@media screen and (max-width:1399px) {
+  .faq-answer-img{
+    height: 5rem;
+  }
+}
+
+@media screen and (max-width:1024px) {
+  
+
+  .expertGreatThing-move{
+    position: absolute;
+    top: 400px;
+  }
+  .SemlessIntegration-main{
+    padding-top: 28rem;
+  }
+  .p-card{
+    padding: 1.2rem 1rem;
+  }
+  .blub-pricing{
+    height:4rem;
+    width: 4rem;
+  }
+  .bulb-pricing-child{
+    height: 2rem;
+  }
+  .basicsPlans{
+    font-size: 1rem;
+  }
+  .getStarted-pricing{
+   
+    width: 100%;
+    text-align: center;
+    border-radius:50px;
+    padding: 10px 30px;
+    font-size: 2rem;
+    
+    box-shadow: 0 5px 2px black;
+  }
+  .getStarted-pricing h3{
+    font-size: 1.1rem;
+
+  }
+  .below-black-box{
+    width: 100%;
+    left: 0;
+    font-size: 0.8rem;
+  }
+  .PricingPlans{
+    margin-top: 4rem;
+  }
+
+  /* consulting sectiion  */
+  .consulting-parent{
+    margin: 1rem 0;
+  }
+  .startConsulting{
+    font-size: 1.5rem;
+  }
+  .Consulting-btn{
+    /* width: 60%; */
+  }
+  .consulting-gap{
+    gap: 0.3rem;
+  }
+  .startConsulting-para{
+    font-weight: 500;
+    font-size: 0.8rem;
+  }
+  .consultingLogoPara{
+    font-weight: 700;
+    margin: 0;
+    font-size:0.8rem;
+
+  }
+  .consulting-img-para{
+      gap:15px;
+  }
+  .consulting-parent{
+    margin-top: 0;
+  }
+  .img-consulting-parent{
+    margin: 0 !important;
+  }
+ 
+  .consulting-img-1-parent{
+    height: 40%;
+  }
+  .consulting-img-2-parent{
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+  }
+  .consulting-img-parent-main{
+    height: 300px;
+  }
+  .seamlessPara{
+    font-size: 0.9rem;
+  }
+  .Seamless{
+    font-size: 1.3rem;
+    margin-bottom: 0;
+  }
+  .Seamless-mail{
+    position: absolute;
+    margin-top: 40px;
+    width:12%;
+  }
+  .enevlop{
+    height: 3rem;
+    padding: 0.8rem;
+    width: 5rem;
+  }
+  .eveelop-mail{
+    width: 1rem;
+  }
+  .get-questions-headline{
+    font-size: 1rem;
+  }
+  .getThemeMail{
+    font-size: 1rem;
+  }
+  /* expert section  */
+  .expert-Heading{
+    font-size: 1.5rem;
+    width: 100%;
+    /* text-align: center; */
+  }
+  .Consulting-btn-expert{
+    width: fit-content;
+    margin-top: 2rem;
+    padding:1rem 4rem;
+  }
+
+  .certified-img{
+    width: 4rem;
+  }
+  .seamless-img-para-parent{
+    gap: 2
+}
+.Footer-Heading{
+  font-size: 3.1rem;
+}
+.mail-box-footer{
+  padding: 1rem 1.5rem;
+  margin-top: 2rem;
+ }
+ 
+ .CharliHappne{
+  font-size: 0.9rem;
+  line-height: 1rem;
+  
+  /* font-weight: 700; */
+  position: absolute;
+  left: 10%;
+  width: 82%;
+  bottom: 46%;
+}
+ #FiveCenturar-perosnId{
+  height: 7rem !important;
+ }
+ .five-centure-star{
+  font-size: 1rem;
+ }
+ .Img-start{
+  border-radius: 50%;
+  height: 30rem;
+  /* width: 30rem; */
+  background-color: white;
+  padding-top: 8rem !important;
+  /* background-color: red; */
+  display: flex;
+  justify-content: start;
+ }
+ .Revisting{
+  font-size: 1.2rem;
+ }
+ 
+}
+@media screen and (max-width:767px) {
+  .instaSwiperCard img{
+    border-radius: 3rem;
+    height: 7rem;
+    width: 1.8rem;
+    background-color: red;
+  }
+}
+
+@media screen and (max-width:999px) {
+  .navbar-nav{
+    background-color: #fff;
+    color: black;
+    border: none;
+    padding:2rem 3rem;
+    border-radius: 2rem;
+    box-shadow: 10px 10px 10px white;
+
+  }
+  .nav-link{
+    color:black !important;
+  }
+  
+}
+@media screen and (max-width:768px) {
+ 
+   .request-quote {
+    font-size: 1.6rem;
+    font-weight: bolder;
+  }
+
+  .hero {
+    padding-top: 123px;
+  }
+
+  .bgCove {
+
+    height: 105%;
+
+  }
+
+  .hero-logos {
+    width: 3rem;
+  }
+
+  .header_btn {
+    padding: 0.8rem 2rem;
+    color: white;
+
+
+
+  }
+
+  .cardHeader {
+    width: 100%;
+  }
+
+  .marketing {
+    font-size: 0.9rem;
+  }
+
+  .Preferred {
+    font-size: 1.2rem;
+    width: 70%;
+  }
+
+  .inputsHeader {
+    padding: 0.6rem;
+  }
+
+  .inradiotext {
+    font-weight: 500;
+  }
+
+  .hero-logo-parent {
+    gap: 2rem;
+  }
+
+  .quitque-text {
+    text-align: center;
+  }
+
+  .quitqueBlub {
+    width: 4rem;
+    height: 4rem;
+  }
+
+  .quitqueBlub-parent {
+    gap: 1rem;
+  }
+
+  .quitque-text p {
+    font-size: 1rem;
+  }
+
+  .digitailFutureImage-parent {
+    position: relative;
+    bottom: 0;
+    right: 0;
+  }
+
+  .digitailFutureImage .Performance {
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin-top: 1rem;
+  }
+
+  .digitalFutureSubBox {
+    gap: 40px;
+    padding: 10px 0;
+  }
+
+  .top-rated-company {
+    width: 70%;
+    padding: 2px 4px;
+    box-shadow: 2px 3px 2px black;
+  }
+
+  .top-rated-company h6 {
+    font-size: 0.9rem;
+  }
+
+  .yellow-star {
+    font-size: 1rem;
+  }
+
+  .new-buniess {
+    font-size: 1rem;
+  }
+
+  .develop-heading {
+    font-size: 1.5rem;
+  }
+
+  .develop-para {
+    font-size: 0.7rem;
+  }
+
+  .digitailFutureImage .num {
+    font-size: 1.3rem;
+    font-weight: 400;
+  }
+
+  .performance-child {
+    gap: 2px;
+  }
+
+  .digitalFuture {
+    font-size: 1.5rem;
+  }
+
+  .review {
+    font-size: 0.7rem;
+    width: 100%;
+    padding: 0;
+  }
+
+  .digitalFiturePara {
+    font-size: 1rem;
+    font-weight: 900;
+  }
+
+  .choise {
+    font-size: 1.8rem;
+  }
+
+  .top-rated-company2 h6 {
+    font-size: 0.9rem;
+
+  }
+
+  .top-rated-comapny-parent {
+    gap: 1rem;
+  }
+
+  .card-image-size {
+    height: 9rem;
+    object-fit: cover;
+
+  }
+
+  .card-parent {
+    padding: 10px 20px;
+  }
+
+  .card-text-parent {
+    padding-left: 0;
+    margin-top: 40px;
+  }
+
+  .vieoMeeting {
+    font-weight: 900;
+    font-size: 1.2rem;
+    /* margin-top: 20px; */
+  }
+
+
+  .easy {
+    background-color: #E3EAF5;
+    padding: 5px 18px;
+    border-radius: 50px;
+    font-weight: 400;
+  }
+  .experince{
+    margin-top: 1rem;
+    gap: 0;
+  }
+  .digitalFiturePara{
+    font-size: 1rem;
+
+  }
+  .digitalFiturePara-parent{
+    margin-top: 0.8rem;
+  }
+  .ConsultingExperience{
+    font-size: 1.5rem;
+  } 
+
+  /* pricngPlans  */
+  .top-rated-company2-main{
+    padding: 0.8rem 2.8rem;
+  }
+  .top-rated-company2-main h6{
+    font-size: 0.9rem;
+    font-weight: bold;
+  }
+  .choise-width-pricing{
+    width: 81%;
+  }
+  .basicsPlans{
+    font-size: 1.3rem;
+  }
+  .p-card{
+    padding:0.9rem 1.5rem;
+  }
+  .getStarted-pricing{
+    border: 3px solid black;
+    background-color:white ;
+    width: 100%;
+    text-align: center;
+    border-radius:50px;
+    padding: 10px 30px;
+    font-size: 2rem;
+    gap: 15px;
+    justify-content: center;
+    box-shadow: 0 5px 2px black;
+  }
+  .getStarted-pricing h3{
+    font-size: 1.1rem;
+
+  }
+  .blub-pricing{
+    height:4rem;
+    width: 4rem;
+  }
+  .bulb-pricing-child{
+    height: 2rem;
+  }
+  .basicsPlans{
+    font-size: 1rem;
+  }
+  .below-black-box{
+  width: 100%;
+  left: 0%;
+  bottom:-24px;
+  font-size: 0.9rem;
+  
+  }
+
+  /* .seamless section  */
+  .seamless_img-grup{
+    position: relative;
+    border-radius: 0px;
+    padding: 1rem 2rem;
+    
+  
+  }
+ 
+  .seamlessImg-parent-box img{
+    height: 50%;
+  }
+  .seamlessImg-parent-box{
+    height: 55px;
+    width: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius:20px;
+  }
+  .seamless_img-grup-sub{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1rem;
+  }
+  .SemlessIntegration-btn{
+    padding:0.8rem 1.1rem;
+  }
+  
+  /* footer  */
+  .Footer-Heading{
+    font-size: 2rem;
+  }
+  .footer-para{
+    font-size: 0.9rem;
+  }
+  .footer-icons{
+    font-size: 1.5rem;
+  }
+  .lets-Connect-Footer{
+    border-bottom: 1px solid #dadada79;
+    border-right: 0;
+    padding-bottom: 2rem;
+   }
+   .MyFooter{
+    margin-top: 8rem;
+    padding-top: 3rem;
+   }
+   .mail-box-footer{
+    padding: 1rem 1.5rem;
+    margin-top: 2rem;
+   }
+   .Faq-meet{
+    font-size: 1.6rem;
+    width: 100%;
+   }
+   .Revisting{
+    font-size: 0.7rem ;
+   }
+   .main-faq-parent{
+    position: relative;
+    padding:0 0rem;
+    margin: 0;
+    margin: auto;
+  }
+   .Question-arrow{
+    font-size: 1rem;
+   }
+   .faq-answer-img{
+    height: 6rem;
+   }
+
+   .Revisiting{
+    font-size: 1rem;
+   }
+   .faq-answer{
+    padding: 1.8rem 1rem;
+    border-radius: 2.3rem;
+   
+  }
+  .faq-para{
+    font-size: 0.8rem;
+  }
+  .faq-question{
+    padding: 1rem 1rem;  
+  }
+  
+
+  .main-faq-parent::before{
+    content: "";
+    height: 70%;
+    width: 100%;
+    position: absolute;
+    bottom: 10%;
+    left: 0;
+    background-color: #EBF1EA;
+    z-index: -1;
+    border-radius: 1rem;
+  }
+  
+    
+  /* .main-faq-parent-condtion::before{
+    content: "";
+    height: 50%;
+    width: 100%;
+    position: absolute;
+    bottom: -5%;
+    left: 0;
+    background-color: #EBF1EA;
+    z-index: -1;
+    border-radius: 1rem;
+    margin: 0;
+  } */
+
+}
+
+
+
+@media screen and (min-width:769px) {
+  .seamless_img-grup{
+    border-radius: 4rem;
+    
+  
+  }
+  .lets-Connect-Footer{
+    border-right: 1px solid #dadada79;
+    /* border-bottom: 0px */
+
+   }
+}
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+  .blub-pricing{
+    height:10rem;
+    width: 10rem;
+  }
+  .Revisting{
+    font-size: 1.2rem;
+  }
+ 
+}
+
+
+
+
+
+
+@media screen and (min-width:768px) {
+  .heroHeading {
+    font-size: 3rem;
+  }
+
+  .quitque-text h2 {
+    font-size: 1rem;
+    font-weight: bold
+  }
+
+  .quitque-text {
+    text-align: start;
+  }
+
+  .quitqueBlub {
+    width: 12rem;
+  }
+}
+
+@media screen and (min-width:1024px) {
+  .navbar-nav {
+    gap: 3rem;
+  }
+
+  .heroHeading {
+    font-size: 4rem;
+  }
+
+  .hero-para {
+    font-size: 1.2rem;
+  }
+
+
+}
+
+
+
+@media screen and (min-width:967px) {
+  .marketing {
+    font-size: 3..2rem;
+  }
+
+  .heroHeading {
+    font-size: 4rem;
+  }
+
+
+}
