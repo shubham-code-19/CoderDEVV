@@ -5,7 +5,8 @@ import { FaPlay } from "react-icons/fa";
 const ExpertGreatThingBanner = ({opnerHandler}) => {
   return (
     <>
-          <div className="container  position-relative expertGreatThing-move px-4 px-sm-0 mt-lg-5 mt-lg-0">
+    <div className='position-relative ' style={{height:"600px"}}>
+          <div className="container    position-absolute expertGreatThing-move px-4 px-sm-0 mt-lg-5 mt-lg-0">
         <div className="row expertGreatThing ">
           <div className="col-12 flex-column d-flex justify-content-center align-items-center expertGreatThing-parent">
             <div className="play-btn-expert-greatThing  " onClick={opnerHandler}>
@@ -38,6 +39,7 @@ const ExpertGreatThingBanner = ({opnerHandler}) => {
 
           </div>
         </div>
+      </div>
       </div>
     </>
   )

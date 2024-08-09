@@ -12,7 +12,7 @@ const DigitalFuture = () => {
     <>
     <div className="container mt-5 py-5" id='myDigital'>
         <div className="row">
-            <div className="col-md-6 position-relative mb-5  mb-lg-0 ">
+            <div className="col-md-6 position-relative md:mb-5  mb-lg-0 ">
                 <div>
                 <img className='w-100 img-fluid' src="/assetsReact/block1.png" alt="" />
                 </div>
@@ -51,7 +51,7 @@ const DigitalFuture = () => {
                </div>
             </div>
             
-            <div className="col-md-6 pt-5 mt-5 mt-md-0 ">
+            <div className="col-md-6 mt-4 pt-4 md:pt-5 md:mt-5 mt-md-0 ">
                 <div className='d-flex top-rated-company'>
                 <FaStar className='text-warning yellow-star' />
                 <h6>Top Rated Company </h6>

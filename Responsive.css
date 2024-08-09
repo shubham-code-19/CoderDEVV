@@ -7,17 +7,35 @@
   .faq-answer-img{
     height: 5rem;
   }
+  
+  .seamlessImg-parent-box img{
+    height: 50%;
+  }
+  .seamlessImg-parent-box{
+    height: 55px;
+    width: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius:20px;
+  }
+  .seamless_img-grup-sub{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1rem;
+  }
+  .SemlessIntegration-btn{
+    padding:0.8rem 1.1rem;
+  }
 }
 
 @media screen and (max-width:1024px) {
   
+  
 
-  .expertGreatThing-move{
-    position: absolute;
-    top: 400px;
-  }
   .SemlessIntegration-main{
-    padding-top: 28rem;
+    padding-top:12rem;
   }
   .p-card{
     padding: 1.2rem 1rem;
@@ -183,11 +201,30 @@
  
 }
 @media screen and (max-width:767px) {
+  .InstaSwiper{
+    margin-top: 3rem;
+  }
   .instaSwiperCard img{
     border-radius: 3rem;
     height: 7rem;
     width: 1.8rem;
     background-color: red;
+  }
+  .pricing-card-btnsss{
+    padding: 1rem 0rem;
+    border-radius: 2rem;
+    text-align: center;
+    width: 60%;
+    /* background-color: lightcyan; */
+    text-decoration: none;
+    color: white;
+    background-color:grey;
+    font-weight: 900;
+    cursor: pointer;
+  }
+ 
+  .pricing-card-btnsss:hover{
+    background-color: black;
   }
 }
 
@@ -207,7 +244,11 @@
   
 }
 @media screen and (max-width:768px) {
- 
+  .expertGreatThing-move{
+    position: absolute;
+    top: 40px;
+      left:0;
+  }
    .request-quote {
     font-size: 1.6rem;
     font-weight: bolder;
@@ -453,32 +494,20 @@
 
   /* .seamless section  */
   .seamless_img-grup{
+    border-radius: 4rem;
+    
+  
+  }
+ 
+  .seamless_img-grup{
     position: relative;
     border-radius: 0px;
     padding: 1rem 2rem;
     
   
   }
- 
-  .seamlessImg-parent-box img{
-    height: 50%;
-  }
-  .seamlessImg-parent-box{
-    height: 55px;
-    width: 55px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: white;
-    border-radius:20px;
-  }
-  .seamless_img-grup-sub{
-    display: grid;
-    grid-template-columns: repeat(4,1fr);
-    gap: 1rem;
-  }
-  .SemlessIntegration-btn{
-    padding:0.8rem 1.1rem;
+  .FiveCentuary{
+    margin-top: 3rem;
   }
   
   /* footer  */
@@ -497,7 +526,7 @@
     padding-bottom: 2rem;
    }
    .MyFooter{
-    margin-top: 8rem;
+    margin-top: 3rem;
     padding-top: 3rem;
    }
    .mail-box-footer{
@@ -571,11 +600,7 @@
 
 
 @media screen and (min-width:769px) {
-  .seamless_img-grup{
-    border-radius: 4rem;
-    
   
-  }
   .lets-Connect-Footer{
     border-right: 1px solid #dadada79;
     /* border-bottom: 0px */
@@ -591,6 +616,8 @@
   .Revisting{
     font-size: 1.2rem;
   }
+
+  
  
 }
 

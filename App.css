@@ -612,7 +612,11 @@ right: 10%;
 /* expertGreatThing section  */
 
 .expertGreatThing-move{
-  top: 100px;
+  /* top: 100px; */
+  left: 6%;
+  top: 0px;
+  
+
 }
 .expertGreatThing{
   background-image: url("./assetsReact/asset29.jpeg");
@@ -1192,8 +1196,11 @@ animation-delay: 0.4s;
 .pricing-card-btnsss{
   padding: 1rem 5rem;
   border-radius: 2rem;
+  text-align: center;
+  width: 100%;
   background-color: lightcyan;
   text-decoration: none;
   color: white;
   background-color: #000;
+  cursor: pointer;
 }

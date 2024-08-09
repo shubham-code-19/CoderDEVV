@@ -45,7 +45,7 @@ const SemlessIntegration = () => {
               <div className=" py-5 text-center">
                 <a
                   href="#"
-                  className="Consulting-btn Consulting-btn-expert text-uppercase   SemlessIntegration-btn"
+                  className="Consulting-btn  text-uppercase   SemlessIntegration-btn"
                 >
                   Get quote now
                 </a>
